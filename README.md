@@ -5,14 +5,20 @@ The Hotel Management System is a simple console application developed in Python 
 
 ## Features
 •	Display Room Availability: Shows a list of all rooms, indicating whether each is available or currently booked.
+
 •	Add Booking: Allows the user to create a new booking by entering customer details, including name, contact information, and check-in/check-out dates.
+
 •	View Booking: Retrieve and display booking details for a specific customer.
+
 •	Checkout: Process a customer’s checkout, making the room available for new bookings.
+
 •	Exit: Closes the application.
 
 ## Code Structure
 •	Class HotelManagementSystem: This class contains all methods and logic for managing room bookings and customer information.
+
 •	__init__: Initializes room and customer data structures.
+
 •	display_rooms: Displays the current status of each room (available or booked).
 •	add_booking: Adds a new booking by collecting customer details and assigning an available room.
 •	view_booking: Retrieves and displays booking details for a specific customer by name.
