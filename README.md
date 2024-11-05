@@ -23,7 +23,8 @@ The Hotel Management System is a simple console application developed in Python 
 
 ## Usage
 1. Run the Application: Save the code to a file named hotel_management_system.py. Open a terminal or command prompt, navigate to the file's directory, and run:
-### python hotel_management_system.py ###
+### python hotel_management_system_app.py ###
+
 2. Menu Options:
 •	Display Rooms: View all rooms and their availability.
 •	Add Booking: Enter customer details and assign an available room.
