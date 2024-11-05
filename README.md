@@ -38,6 +38,7 @@ The Hotel Management System is a simple console application developed in Python 
 
 
 2. Menu Options:
+
 •	Display Rooms: View all rooms and their availability.
 
 •	Add Booking: Enter customer details and assign an available room.
